@@ -21,7 +21,7 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Tutorial to set up a Django app](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
