@@ -21,6 +21,6 @@ urlpatterns = [
     path('accounts/', include('django.contrib.auth.urls')),
     path('mydose/', include('login.urls')),
     path('doctor_portal/', include('doctor_portal.urls')),
-    path('patient_portal/', include("patient_portal.urls")),
+    path('mydose/patient_portal/', include("patient_portal.urls")),
     path('admin/', admin.site.urls),
 ]

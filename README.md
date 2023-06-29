@@ -23,6 +23,7 @@
 {Make a list of websites that you found helpful in this project}
 * [Tutorial to set up a Django app](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
 * [How to use Django's built in login pages](https://learndjango.com/tutorials/django-login-and-logout-tutorial)
+* [Multiple types of users](https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html)
 
 # Future Work
 
