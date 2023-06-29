@@ -18,6 +18,7 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
+    path('mydose/', include('login.urls')),
     path('doctor_portal/', include('doctor_portal.urls')),
     path('patient_portal/', include("patient_portal.urls")),
     path('admin/', admin.site.urls),
