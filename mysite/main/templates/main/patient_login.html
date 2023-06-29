@@ -1,0 +1,9 @@
+<h2>Patient Login</h2>
+
+<p>Welcome to the patient login page. Please enter your credentials below to access the patient portal:</p>
+
+<form method="post">
+  {% csrf_token %}
+  {{ form.as_p }}
+  <button type="submit">Log In</button>
+</form>
