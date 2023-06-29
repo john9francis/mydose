@@ -22,7 +22,7 @@
 
 {Make a list of websites that you found helpful in this project}
 * [Tutorial to set up a Django app](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
-* [Web Site Name](http://url.link.goes.here)
+* [How to use Django's built in login pages](https://learndjango.com/tutorials/django-login-and-logout-tutorial)
 
 # Future Work
 
