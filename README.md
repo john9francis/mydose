@@ -38,7 +38,15 @@ and then run:
 py manage.py migrate
 ```
 
-4. Start Django's built in testing webserver
+4. Create an authorized user for testing
+
+while in the first 'mysite' directory, run:
+```powershell
+py manage.py createsuperuser
+```
+It will then prompt for a username and password. This user will be able to login to any login screen the app has. This is nice for testing purposes.
+
+5. Start Django's built in testing webserver
 
 while in the first 'mysite' directory, run:
 
