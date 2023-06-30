@@ -12,7 +12,7 @@ To start the app, open up a command prompt and go to the first "mysite" director
 py manage.py runserver
 ```
 
-Then, open a web browser and go to [localhost:8000/mydose](localhost:8000/mydose). This should show you the app's homepage. From there you can choose to log in as a doctor or a patient. 
+Then, open a web browser and go to [localhost:8000/mydose](http://localhost:8000/mydose). This should show you the app's homepage. From there you can choose to log in as a doctor or a patient. 
 
 To try out the functionality, use the username: 'admin' and the password: 'password'
 
