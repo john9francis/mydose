@@ -18,13 +18,9 @@ To try out the functionality, use the username: 'admin' and the password: 'passw
 
 I am writing this software because cancer patients often aren't aware of how much radiation they are receiving from their treatments, or how much is safe and healthy. This app (when it's done) will prove a reliable way to log how much radiation the patients are receiving, and what a safe amount is, educating patients and keeping doctors organized and accountable.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Web Pages
-
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
 
 The web pages currently in this project are:
 
@@ -58,14 +54,13 @@ I developed this WebApp using VSCode. I used python and the Django library.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Tutorial to set up a Django app](https://docs.djangoproject.com/en/4.2/intro/tutorial01/)
 * [How to use Django's built in login pages](https://learndjango.com/tutorials/django-login-and-logout-tutorial)
 * [Multiple types of users](https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+* Clean up the models in the doctor_portal app
 * Add functionality to create an account
 * Add models to save the patient and doctor users in their own tables in the database
 * Add functionality to both doctor and patient portals
