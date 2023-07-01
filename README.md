@@ -61,7 +61,7 @@ To try out the functionality, use the username: 'admin' and the password: 'passw
 
 ## Demo
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/rf8F5EHa1v0)
 
 # Web Pages
 
